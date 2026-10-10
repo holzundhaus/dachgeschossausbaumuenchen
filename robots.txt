@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://holzundhaus.github.io/dachgeschossausbaumuenchen/sitemap.xml
